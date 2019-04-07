@@ -1,6 +1,4 @@
-Neue Version des Excel Sheets ist draussen:
-
-https://github.com/MurphTracey/Optimizing-with-Excel/
+Neue Version 1.1
 
 Change Log:
 7/4/2019: Fixed PREV. NEW (changed formula in column BP so previous enchanted gems are listed correctly after a new import)
